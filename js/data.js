@@ -1,0 +1,95 @@
+export const CHARACTERS = [
+  {
+    id: 1,
+    name: 'Shredder',
+    image: 'shredder',
+    color: '#41105d',
+  },
+  {
+    id: 2,
+    name: 'Raphael',
+    image: 'raphael2',
+    color: '#930403',
+  },
+  {
+    id: 3,
+    name: 'Leonardo',
+    image: 'leonardo2',
+    color: '#205bbd', 
+  },
+  {
+    id: 4,
+    name: 'Rocksteady',
+    image: 'rocksteady',
+    color: '#dfbc96', 
+  },
+  {
+    id: 5,
+    name: 'Donatello',
+    image: 'donatello',
+    color: '#8b19a9',
+  },
+  {
+    id: 6,
+    name: 'Michelangelo',
+    image: 'michelangelo',
+    color: '#cf6215', 
+  },
+  {
+    id: 7,
+    name: 'Krang',
+    image: 'krang1',
+    color: '#e58196', 
+  },
+];
+
+export const QUOTES = [
+  {
+    id: 1,
+    character_id: 1,
+    quote: `"Espèce d'accident génétique !"`,
+    season: '2',
+    episode: '5',
+    timer: '00:07:12',
+  },
+  {
+    id: 2,
+    character_id: 3,
+    quote: `"Eh ben c'est une longue histoire...<br>— Alors vous la raconterez un autre jour !"`,
+    season: '2',
+    episode: '5',
+    timer: '00:17:49',
+  },
+  {
+    id: 3,
+    character_id: 2,
+    quote: `"Je connais très bien le responsable du musée d'histoire naturelle.<br>— ... Et alors ?"`,
+    season: '2',
+    episode: '5',
+    timer: '00:18:11',
+  },
+  {
+    id: 4,
+    character_id: 4,
+    quote: `"T'as déjà vu une créature aussi laide ?<br>— Oh oui alors, c'est tout à fait ton ancienne petite amie, on dirait sa soeur !"`,
+    season: '2',
+    episode: '6',
+    timer: '00:15:37',
+  },
+  {
+    id: 5,
+    character_id: 6,
+    quote: `"Oh mais c'est vraiment un rat-mulot celui-là !"`,
+    season: '2',
+    episode: '7',
+    timer: '00:17:58',
+  },
+  {
+    id: 6,
+    character_id: 7,
+    quote: `"Mais qu'est-ce qu'il y a, sautrelle malfaisante ?"`,
+    season: '2',
+    episode: '8',
+    timer: '00:10:29',
+  },
+];

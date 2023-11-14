@@ -299,6 +299,32 @@ p {
     margin-right: 15px;
 }
 
+.play-pause-button {
+    --img-size: 50px;
+    background-color: white;
+    padding: 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: var(--img-size);
+    min-width: var(--img-size);
+    border-radius: 50%;
+    overflow: hidden;
+}
+.play-pause-button:hover, 
+.play-pause-button:focus, 
+.play-pause-button:active {
+    background-color: white;
+    border: none;
+}
+
+.play-pause-icon {
+    --img-size: 50px;
+    width: var(--img-size);
+    height: var(--img-size);
+}
+
 /* ==========================
  MEDIA QUERIES
 ========================== */

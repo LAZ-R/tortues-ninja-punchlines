@@ -77,7 +77,7 @@ export const QUOTES = [
   {
     id: 4,
     character_id: 4,
-    quote: `"T'as déjà vu une créature aussi laide ?<br>— Oh oui alors, c'est tout à fait ton ancienne petite amie, on dirait sa soeur !"`,
+    quote: `"Oh, t'as déjà vu une créature aussi laide ?<br>— Oh oui alors, c'est tout à fait ton ancienne petite amie, on dirait sa soeur !"`,
     season: '2',
     episode: '6',
     timer: '00:15:37',
@@ -101,7 +101,7 @@ export const QUOTES = [
   {
     id: 7,
     character_id: 6,
-    quote: `"Quoi ? Les deux caricatures ? Ces deux débiles ne savent même pas lire !"`,
+    quote: `"Je viens juste de voir les lieutenants de Shredder à la bibliothèque municipale.<br>— Quoi ? Les deux caricatures ? Ces deux débiles ne savent même pas lire !"`,
     season: '2',
     episode: '9',
     timer: '00:04:59',
@@ -173,7 +173,7 @@ export const QUOTES = [
   {
     id: 16,
     character_id: 8,
-    quote: `"J'n'aurai jamais dû quitter le Texas, ma mère avait raison"`,
+    quote: `"J'n'aurai jamais dû quitter le Texas, ma mère avait raison."`,
     season: '2',
     episode: '10',
     timer: '00:18:45', 
